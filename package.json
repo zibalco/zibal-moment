@@ -131,7 +131,7 @@
     "ender"
   ],
   "license": "MIT",
-  "main": "moment.js",
+  "main": "../antd-jalali-moment/antd-jalali-moment.js",
   "name": "moment",
   "repository": {
     "type": "git",
